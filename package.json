@@ -1,0 +1,17 @@
+{
+  "name": "filternode",
+  "version": "1.0.0",
+  "description": "filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harvin Moreno Palacios",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsend": "^1.1.0",
+    "jsend-express": "^1.2.4",
+    "request": "^2.88.2"
+  }
+}
